@@ -3,7 +3,7 @@
 ## Introduction
 This project analyzes the influence and performance of YouTube channels using Power BI. It focuses on key metrics such as subscribers, video views, and content categories to provide insights into the most popular creators and content types. The analysis supports data-driven decisions for content strategy, marketing collaborations, and audience targeting.
 
-- Dataset [Youtube Channel](https://github.com/NishaChandila/Youtube-Subscribers-Trends/blob/main/most_subscribed_youtube_channels.csv)
+- Youtube Channel [Dataset](https://github.com/NishaChandila/Youtube-Subscribers-Trends/blob/main/most_subscribed_youtube_channels.csv)
 
 Power BI Dashboard 
 - [Report 1](https://github.com/NishaChandila/Youtube-Subscribers-Trends/blob/main/youtube-subscribers-trends-1.jpg)
@@ -22,7 +22,7 @@ The dataset includes the following columns:
 - **Category**: The content category of the channel (e.g., Music, Entertainment).
 - **Started**: Year when the channel was created.
 
-- Dataset [Youtube Channel](https://github.com/NishaChandila/Youtube-Subscribers-Trends/blob/main/most_subscribed_youtube_channels.csv)
+- Youtube Channel [Dataset](https://github.com/NishaChandila/Youtube-Subscribers-Trends/blob/main/most_subscribed_youtube_channels.csv)
 
 ## Power BI Dashboard Insights
 
@@ -50,7 +50,7 @@ Power BI Dashboard
 
 This YouTube analysis provides a foundation for optimizing channel strategies and enhancing audience engagement through data-driven insights.
 
-- Dataset [Youtube Channel](https://github.com/NishaChandila/Youtube-Subscribers-Trends/blob/main/most_subscribed_youtube_channels.csv)
+- Youtube Channel [Dataset](https://github.com/NishaChandila/Youtube-Subscribers-Trends/blob/main/most_subscribed_youtube_channels.csv)
 
 Power BI Dashboard 
 - [Report 1](https://github.com/NishaChandila/Youtube-Subscribers-Trends/blob/main/youtube-subscribers-trends-1.jpg)
